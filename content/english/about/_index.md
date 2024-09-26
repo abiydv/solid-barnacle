@@ -1,7 +1,7 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Who are we, and what do we do?"
 meta_title: "About"
-description: "this is meta description"
+description: "who are we, and what to we do?"
 image: "/images/avatar.png"
 draft: false
 ---

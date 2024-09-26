@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get in Touch"
-    link: "emailto:hello@3wdf.com"
+    link: "mailto:hello@3wdf.com"
 
 # Features
 features:
@@ -15,18 +15,18 @@ features:
     image: "/images/service-1.png"
     content: "Awesome Product is an awesome product that solves all your problems"
     bulletpoints:
-      - "Visualize your issues"
-      - "Works with any type of car"
-      - "Customize which problems you want to see first"
-      - "Send list of problems preiodically"
+      - "Visualize"
+      - "Track"
+      - "Customize"
+      - "Single pane of glass!"
     button:
       enable: True
       label: "Get a free trial"
-      link: "emailto:hello+freetial@3dwf.com"
+      link: "mailto:hello+freetial@3dwf.com"
 
   - title: "Consulting"
     image: "/images/service-2.png"
-    content: "IT/ITeS consulting services for "
+    content: "Tailer made Consulting services for small to medium businesses"
     bulletpoints:
       - "Tailor-made"
       - "Customizable"
@@ -34,11 +34,11 @@ features:
     button:
       enable: true
       label: "Contact Us"
-      link: "email: hello@3dwf.com"
+      link: "mailto:hello+consulting@3dwf.com"
 
-  - title: "Financial consulting"
+  - title: "Money consulting"
     image: "/images/service-3.png"
-    content: "Allow us to help you define and stick to a budget that works for your company"
+    content: "Allow us to help you define and stick to a budget that works for you"
     bulletpoints:
       - "Time bound, quantifiable results"
       - "Dedicated team"
@@ -46,5 +46,5 @@ features:
     button:
       enable: true
       label: "Contact Us"
-      link: "email: hello@3dwf.com"
+      link: "mailto:hello+money@3dwf.com"
 ---

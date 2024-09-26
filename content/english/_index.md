@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get in Touch"
+    label: "Let's talk"
     link: "mailto:hello@3wdf.com"
 
 # Features
@@ -21,8 +21,8 @@ features:
       - "Single pane of glass!"
     button:
       enable: True
-      label: "Get a free trial"
-      link: "mailto:hello+freetial@3dwf.com"
+      label: "Know More"
+      link: "/products"
 
   - title: "Consulting"
     image: "/images/service-2.png"
@@ -33,8 +33,8 @@ features:
       - "Flexible"
     button:
       enable: true
-      label: "Contact Us"
-      link: "mailto:hello+consulting@3dwf.com"
+      label: "Know More"
+      link: "/services"
 
   - title: "Money consulting"
     image: "/images/service-3.png"
@@ -45,6 +45,6 @@ features:
       - "Regular health checks"
     button:
       enable: true
-      label: "Contact Us"
-      link: "mailto:hello+money@3dwf.com"
+      label: "Know More"
+      link: "/services"
 ---

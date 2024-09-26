@@ -12,15 +12,14 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Blog"
-url = "/blog"
-weight = 4
+name = "Services"
+url = "/services"
+weight = 3
 
 [[main]]
-name = "Contact"
-url = "/contact"
-weight = 5
-
+name = "Products"
+url = "/products"
+weight = 4
 
 # footer menu
 [[footer]]
